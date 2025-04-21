@@ -1,0 +1,7 @@
+stock-simulator-python/
+├── main.py
+├── stock.py
+├── market.py
+├── portfolio.py
+├── README.md
+└── requirements.txt
